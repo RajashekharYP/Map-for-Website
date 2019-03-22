@@ -3,6 +3,10 @@ Adding location in Map for your  in website, markes your website rich and helps 
 
 Example given explains in detail step by step assuming that reader is begginer to the web-development.Below Img's shows how this app looks on your website(Size of map is configurable as per your requirment).
 
+<img src="img/custemChatPlugin.JPG">
+
+<img src="img/custemChatPlugin.JPG">
+
 A attachment for the complete code snippet is available above, you can download it and just paste the code in your program where you want to add a Map. For the Map's size, width and height are configurable so modify as per you requirement.
 
 Before entering into the coding part First you need to get the Google API key(Unique Key).
