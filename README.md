@@ -2,10 +2,11 @@
 Adding location in Map for your  in website, markes your website rich and helps user to reach you out in your place.
 
 Example given explains in detail step by step assuming that reader is begginer to the web-development.Below Img's shows how this app looks on your website(Size of map is configurable as per your requirment).
-
-<img src="MapInSite1.jpg">
-
+Img from code snippet given 
 <img src="map1.jpg">
+
+Example taken from one of my designed site.
+<img src="MapInSite1.jpg">
 
 A attachment for the complete code snippet is available above, you can download it and just paste the code in your program where you want to add a Map. For the Map's size, width and height are configurable so modify as per you requirement.
 
@@ -33,3 +34,7 @@ The zoom property specifies the zoom level for the map (try to experiment with t
 The line: var map=new google.maps.Map(document.getElementById("googleMap"), mapProp); creates a new map inside the <div> element with id="googleMap", using the parameters that are passed (mapProp).
 
 Finally Run the code you will be able to see your Map in your website.
+
+references considered for the article: 
+W3school.com
+Electrosolutions.net
