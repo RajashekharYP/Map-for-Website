@@ -1,17 +1,17 @@
 # Map-for-Website
 Adding location in Map for your  in website, markes your website rich and helps user to reach you out in your place.
 
-Example given explains in detail step by step assuming that reader is begginer to the web-development.Below Img's shows how this app looks on your website(Size of map is configurable as per your requirment).
+Example given here explains you the details, step by step. Assuming that reader is begginer to the web-development.Below image shows how the map appearance on your website(Size of map is configurable as per your requirment).
 Img from code snippet given 
 <img src="map1.jpg">
 
-Example taken from one of my designed site.
+Example taken here is from one of my demo site.
 <img src="MapInSite1.jpg">
 
-A attachment for the complete code snippet is available above, you can download it and just paste the code in your program where you want to add a Map. For the Map's size, width and height are configurable so modify as per you requirement.
+An attachment for the complete code snippet is available above, you can download it and just paste the code in your program where you want to add a Map. For the Map's size, width and height are configurable so modify as per you requirement.
 
-Before entering into the coding part First you need to get the Google API key(Unique Key).
-# "Free Google API Key"
+Before entering into the coding part first you need to get the Google API key(Unique Key).
+# "Free Google API Key" (steps explains here are as per June 2019)
 Google allows a website to call any Google API for free, thousands of times a day.
 
 Go to --> https://developers.google.com/maps/documentation/javascript/get-api-key to learn how to get an API key. 
@@ -22,7 +22,7 @@ Go to --> https://developers.google.com/maps/documentation/javascript/get-api-ke
 5.Google Maps expects to find the API key in the key parameter when loading an API:Hence use that key in the below mentioned line in the code.
  "<script src="https://maps.googleapis.com/maps/api/js?key=YOUR_KEY&callback=myMap"></script>"
 
-To get proper location co-ordinates, go to https://www.latlong.net/ (other sites are also available in google)Its just an example. point out your location in map and take out the co-ordinate values and use them in your code.
+To get a proper location co-ordinates, go to https://www.latlong.net/ (other sites are also available in google)Its just an example. point out your location in map and notedown the co-ordinate values for your location and use them in your code.
 
 # Some basic info related to Map properties in code
 The mapProp variable defines the properties for the map.
